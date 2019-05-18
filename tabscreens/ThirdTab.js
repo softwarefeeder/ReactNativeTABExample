@@ -1,4 +1,4 @@
-// Home screen
+//Third Screen.
 import React, { Component } from 'react';
 //import react in our code.
 import { Text, View } from 'react-native';
